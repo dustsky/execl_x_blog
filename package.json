@@ -1,0 +1,17 @@
+{
+  "name": "execl_x_blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dustsky/execl_x_blog.git",
+  "author": "codermy <gsmxsky@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.21",
+    "vue": "^3.2.41"
+  }
+}
